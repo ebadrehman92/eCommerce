@@ -1,6 +1,7 @@
 # eCommerce
 
-# Details I add my database name, MySQL username, and MySQL password to an environment variable file. Then I'm able to connect to a database using Sequelize.
+# Details 
+I add my database name, MySQL username, and MySQL password to an environment variable file. Then I'm able to connect to a database using Sequelize.
 
 Then I enter schema and seed commands. Then a development database is created and is seeded with the data.
 
