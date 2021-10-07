@@ -23,5 +23,8 @@ GET routes to return a single category, a single product, and a single tag.
 POST, PUT, and DELETE routes for categories.
 Here is the link to my video.
 
+<img width="1422" alt="eCommerce" src="https://user-images.githubusercontent.com/64440230/136471056-f07a4de4-ca27-4cf3-9230-dcba116dba81.png">
+
+
 # Video Link
 https://drive.google.com/file/d/1KgLmk0CpmnrR6HLccKY9Vs-HdBEUYpJp/view
